@@ -1,0 +1,11 @@
+---
+# vars file for aws
+
+key_pair: awsclass2020key
+instance_type: t2.micro
+image: ami-081bb417559035fe8
+subnet_id: subnet-07b7be6f
+region: ap-south-1
+security_group_id: sg-0259c78810d39da1d
+access_key: AKIAYUODRLGZUHACWPYQ
+secret_key: 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
